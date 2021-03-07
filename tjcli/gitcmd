@@ -1,0 +1,5 @@
+git remote add origin https://github.com/IndraGit93/INDRA.git    //to make remote connection with mygit account
+
+
+git clone --branch master --origin origin --progress -v https://github.com/IndraGit93/INDRA.git   //to clone the entire git repository on local machine....checkout area 
+
